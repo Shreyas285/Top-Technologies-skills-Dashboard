@@ -1,4 +1,4 @@
-# Top-Technologies-skills-Dashboard
+# Top-skills-Dashboard
 
 A global IT and business consulting services firm wants to keep pace with changing technologies and remain competitive in the IT field. The company regularly  analyze data to help identify top present and future skill requirements.
 
