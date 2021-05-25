@@ -2,7 +2,7 @@
 
 A global IT and business consulting services firm wants to keep pace with changing technologies and remain competitive in the IT field. The company regularly  analyze data to help identify top present and future skill requirements.
 
-The objective of the project is to identify insights for the emerging skills from the data. Then from the insights obtained, create dashboard using IBM Cognos Analytics that will display top trends in skill requirements for the IT field.
+The objective of this project is to identify insights for the emerging skills from the data. Then from the insights obtained, create dashboard using IBM Cognos Analytics that will display top trends in skill requirements for the IT field.
 
 # About dataset 
 
