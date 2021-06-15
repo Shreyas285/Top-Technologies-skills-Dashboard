@@ -10,7 +10,7 @@ The dataset is taken from Stack Overflow .Stack Overflow, a popular website for 
 The survey data was later open sourced by Stack Overflow. The data set has around 90,000 responses.
 I am going to analyze a subset of data in this project.This randomised subset contains around 1/10th of the original data set.
 
-[Top-skills-Dashboard | nbviewer](https://nbviewer.jupyter.org/github/Shreyas285/Top-skills-Dashboard/blob/main/Top_skills_dashboard%20%281%29.ipynb)
+[Top-skills-Dashboard | nbviewer](https://nbviewer.jupyter.org/github/Shreyas285/Top-skills-2021-Analysis/blob/main/Top_skills_2021_analysis.ipynb)
 
 [Top-Skills-Dashboard](https://dataplatform.cloud.ibm.com/dashboards/3d6a7b5c-bc86-4ebb-958c-07bedeadf9c5/view/7f21a139378e099714c5eae4079d7f047e667655e0bb865688827b490b692297f0691497c87c195c8c130c61faed175a9a)
 
